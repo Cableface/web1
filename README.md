@@ -1,2 +1,2 @@
 # web1
-A website about gaming
+A website about Garchomp
